@@ -1,0 +1,21 @@
+{
+  "name": "scout-mq",
+  "version": "1.0.0",
+  "description": "Node.js MQ client utility module",
+  "main": "lib/index",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Whistle-Group/scout-mq.git"
+  },
+  "keywords": [
+    "mq"
+  ],
+  "author": "Tomislav Capan <tomislav.capan@gmail.com>",
+  "license": "MIT"
+}
